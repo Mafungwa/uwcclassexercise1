@@ -1,0 +1,14 @@
+C:\netprojects\ClassesExercisesSln\ClassesExercises\bin\Debug\net8.0\ClassesExercises.exe
+C:\netprojects\ClassesExercisesSln\ClassesExercises\bin\Debug\net8.0\ClassesExercises.deps.json
+C:\netprojects\ClassesExercisesSln\ClassesExercises\bin\Debug\net8.0\ClassesExercises.runtimeconfig.json
+C:\netprojects\ClassesExercisesSln\ClassesExercises\bin\Debug\net8.0\ClassesExercises.dll
+C:\netprojects\ClassesExercisesSln\ClassesExercises\bin\Debug\net8.0\ClassesExercises.pdb
+C:\netprojects\ClassesExercisesSln\ClassesExercises\obj\Debug\net8.0\ClassesExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\netprojects\ClassesExercisesSln\ClassesExercises\obj\Debug\net8.0\ClassesExercises.AssemblyInfoInputs.cache
+C:\netprojects\ClassesExercisesSln\ClassesExercises\obj\Debug\net8.0\ClassesExercises.AssemblyInfo.cs
+C:\netprojects\ClassesExercisesSln\ClassesExercises\obj\Debug\net8.0\ClassesExercises.csproj.CoreCompileInputs.cache
+C:\netprojects\ClassesExercisesSln\ClassesExercises\obj\Debug\net8.0\ClassesExercises.dll
+C:\netprojects\ClassesExercisesSln\ClassesExercises\obj\Debug\net8.0\refint\ClassesExercises.dll
+C:\netprojects\ClassesExercisesSln\ClassesExercises\obj\Debug\net8.0\ClassesExercises.pdb
+C:\netprojects\ClassesExercisesSln\ClassesExercises\obj\Debug\net8.0\ClassesExercises.genruntimeconfig.cache
+C:\netprojects\ClassesExercisesSln\ClassesExercises\obj\Debug\net8.0\ref\ClassesExercises.dll
